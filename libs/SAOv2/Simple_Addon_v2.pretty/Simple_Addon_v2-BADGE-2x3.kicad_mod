@@ -248,7 +248,7 @@
 		(remove_unused_layers no)
 		(uuid "b6d46ee3-b66d-44e7-9828-f06b6d664a61")
 	)
-	(model "${KIPRJMOD}/libs/SAOv2/3dmodels/SFH11-xxPC-D03-ST-BK.STEP"
+	(model "C:/Users/nwint/Documents/Github/SAO/libs/SAOv2/3dmodels/SFH11-xxPC-D03-ST-BK.STEP"
 		(offset
 			(xyz 0 0 8.5)
 		)
